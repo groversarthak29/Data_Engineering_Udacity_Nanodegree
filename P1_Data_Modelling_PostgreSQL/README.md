@@ -8,20 +8,20 @@ Your role is to create a database schema and ETL pipeline for this analysis.
 
 ### Break down of steps followed
 
-1º Wrote query commands in sql_queries.py file
+1. Wrote query commands in sql_queries.py file
 
-2º Run in console
+2. Run in console
  ```
 python create_tables.py
 ```
 
-3º Used test.ipynb Jupyter Notebook.
+3. Used test.ipynb Jupyter Notebook.
 
-4º Followed the instructions and completed etl.ipynb Notebook.
+4. Followed the instructions and completed etl.ipynb Notebook.
 
-5º Filled in etl.py program.
+5. Filled in etl.py program.
 
-6º Run etl in console, and verify results:
+6. Run etl in console, and verify results:
  ```
 python etl.py
 ```
